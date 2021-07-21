@@ -35,7 +35,7 @@ $(document).ready(function(){
         var block = parseInt($(this).attr("id").split("hour")[1]);
         console.log("block=" + block);
         //conditionals to decide what css styling to have based on current time
-        if(block > rightNow) {
+        if(block < rightNow) {
             $(this).removeClass("future");
             $(this).removeClass("present");
             $(this).addClass("past");
@@ -45,7 +45,7 @@ $(document).ready(function(){
             $(this).removeClass("future");
             $(this).addClass("present");
         }
-        else{
+        if(block > rightNow){
             $(this).removeClass("present");
             $(this).removeClass("past");
             $(this).addClass("future");
