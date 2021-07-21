@@ -4,7 +4,7 @@ body {
   line-height: 1;
 }
 
-input{
+textarea{
   background: transparent;
   border: none;
   resize: none;
@@ -57,7 +57,7 @@ input{
   color: white;
 }
 
-.save-btn {
+.saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
@@ -65,7 +65,7 @@ input{
   color: white;
 }
 
-.save-btn i:hover {
+.saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
