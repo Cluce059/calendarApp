@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
 
 ## Purpose
 An application to help the user visualize their daily tasks in relation to the current time of day.
