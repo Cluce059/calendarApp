@@ -11,8 +11,6 @@ https://cluce059.github.io/calendarApp/
 
 ## screenshot
 
-[screenshot](assets/images/screenshot.jpg)
-
 https://raw.githubusercontent.com/Cluce059/calendarApp/main/assets/images/screenshot.jpg
 
 Edited with ❤️ by Caroline Luce
