@@ -12,4 +12,7 @@ https://cluce059.github.io/calendarApp/
 ## screenshot
 
 [screenshot](assets/images/screenshot.jpg)
-Refactored with ❤️ by Caroline Luce
+
+https://raw.githubusercontent.com/Cluce059/calendarApp/main/assets/images/screenshot.jpg
+
+Edited with ❤️ by Caroline Luce
