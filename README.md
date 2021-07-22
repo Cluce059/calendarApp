@@ -10,5 +10,6 @@ time blocks in green represent the day ahead. Past hours will not be colored in.
 https://cluce059.github.io/calendarApp/
 
 ## screenshot
-[screenshot] ""
+
+[screenshot](assets/images/screenshot.jpg)
 Refactored with ❤️ by Caroline Luce
